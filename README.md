@@ -2,14 +2,10 @@
 
 ## 1. Project Title
 **ATM Simulation: a menu-driven ATM for the terminal, written in C**
-First-semester BTech CSE group project (3 members).
-
-> Educational project only. PINs are saved as plain numbers in a text file, so this is **not** real banking security.
 
 ## 2. Description
 The program works like a simple ATM. You log in with an account number and a 4-digit PIN, then you can check your balance, deposit, withdraw, see a mini statement, change your PIN and log out. Everything is saved in text files, so your data is still there when you run the program again.
 
-The code is split into three modules so each team member can work on their own file.
 
 ## 3. Objectives
 - Use structures, arrays, pointers, functions and file handling in one working program.
